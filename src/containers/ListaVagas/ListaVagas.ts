@@ -9,6 +9,8 @@ export const VagasContainer = styled.div`
   margin-top: 32px;
 
   @media (max-width: 768px) {
+    .vaga {
     grid-template-columns: 1fr;
+    }
   }
 `
